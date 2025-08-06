@@ -4,7 +4,7 @@ FROM python:3.11-slim
 # Establecer el directorio de trabajo dentro del contenedor
 WORKDIR /app
 
-# Copiar los archivos del backend al contenedor
+# Copiar los archivos al contenedor
 COPY . .
 
 # Evitar escritura de bytecode, errores de buffer y encoding
@@ -13,13 +13,19 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
     LC_ALL=C.UTF-8 \
     LANG=C.UTF-8
 
-# Actualizar pip y evitar errores con scikit-learn y Cython
-RUN pip install --upgrade pip \
- && pip install Cython==0.29.36 \
- && pip install -r requirements.txt
+# Instalar dependencias de sistema necesarias para compilar
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    python3-dev \
+    gcc \
+    && pip install --upgrade pip setuptools wheel \
+    && pip install Cython==0.29.36
 
-# Puerto por defecto de FastAPI
+# Instalar las dependencias del proyecto
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Exponer el puerto por defecto
 EXPOSE 8000
 
-# Comando para ejecutar la aplicación
+# Comando para iniciar la API
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
