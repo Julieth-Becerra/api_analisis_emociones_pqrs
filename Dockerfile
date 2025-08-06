@@ -8,7 +8,7 @@ WORKDIR /app
 COPY . .
 
 # Instalar dependencias adicionales desde archivo limpio
-RUN pip install --no-cache-dir -r requirements_clean.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
 # Puerto por defecto para FastAPI/Uvicorn
 EXPOSE 8000
