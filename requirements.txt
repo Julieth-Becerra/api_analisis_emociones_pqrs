@@ -3,16 +3,16 @@ uvicorn
 joblib
 tensorflow
 keras
-numpy
+numpy==1.26.4
 pandas
 scikit-learn
 pgmpy
 gensim
-spacy
-nltk
+spacy==3.5.3
+nltk==3.8.1
 openpyxl
 xlrd
 gunicorn
 
-# Modelo de lenguaje en español de spaCy
-es_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.7.0/es_core_news_sm-3.7.0-py3-none-any.whl
+# Modelo de lenguaje en español de spaCy (compatible con 3.5.3)
+es_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.5.0/es_core_news_sm-3.5.0-py3-none-any.whl
