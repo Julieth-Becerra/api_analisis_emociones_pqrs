@@ -1,0 +1,11 @@
+tema,palabras
+0,"0.197*""medicamento"" + 0.077*""necesitar_urgencia"" + 0.059*""fila"" + 0.059*""espera"" + 0.059*""larga"" + 0.059*""demora"" + 0.040*""perjudicial"" + 0.040*""salud"" + 0.040*""tocar"" + 0.040*""sistema"""
+1,"0.210*""medicamento"" + 0.061*""entregar"" + 0.060*""esperar"" + 0.050*""hora"" + 0.040*""fila"" + 0.040*""atender"" + 0.040*""evitar"" + 0.030*""peligroso"" + 0.030*""urgencia"" + 0.030*""sugerir"""
+2,"0.155*""medicamento"" + 0.083*""entregar"" + 0.070*""esperar"" + 0.057*""error"" + 0.056*""deber"" + 0.043*""farmacia"" + 0.043*""respeto"" + 0.043*""faltar"" + 0.043*""salud"" + 0.029*""fórmula"""
+3,"0.265*""explicar"" + 0.200*""forma"" + 0.135*""trato"" + 0.006*""atender"" + 0.006*""turno"" + 0.006*""medicamento"" + 0.006*""tocar"" + 0.006*""organización"" + 0.006*""entregar"" + 0.006*""atención"""
+4,"0.015*""espera"" + 0.015*""respeto"" + 0.015*""ofrecer"" + 0.015*""salud"" + 0.015*""perjudicial"" + 0.015*""peligroso"" + 0.015*""evitar"" + 0.015*""sugerir"" + 0.015*""inepto"" + 0.015*""servicio"""
+5,"0.165*""medicamento"" + 0.147*""farmacia"" + 0.064*""servicio"" + 0.064*""esencial"" + 0.043*""completo"" + 0.043*""faltar"" + 0.043*""entregar"" + 0.043*""demora"" + 0.043*""inepto"" + 0.043*""necesitar"""
+6,"0.135*""medicamento"" + 0.055*""esperar"" + 0.050*""necesitar_urgencia"" + 0.050*""incompleto"" + 0.050*""agotado"" + 0.050*""solicitar"" + 0.047*""tiempo"" + 0.046*""claro"" + 0.034*""fórmula"" + 0.034*""entregar"""
+7,"0.100*""faltar"" + 0.088*""medicamento"" + 0.081*""grosero"" + 0.081*""turno"" + 0.081*""personal"" + 0.061*""actitud"" + 0.061*""generar"" + 0.061*""problema"" + 0.041*""gente"" + 0.041*""tomar"""
+8,"0.174*""esperar"" + 0.132*""medicamento"" + 0.089*""tocar"" + 0.047*""tomar"" + 0.047*""tiempo"" + 0.047*""personal"" + 0.047*""forma"" + 0.047*""proceso"" + 0.047*""malo"" + 0.047*""sugerir"""
+9,"0.145*""atención"" + 0.141*""medicamento"" + 0.110*""farmacia"" + 0.087*""esperar"" + 0.056*""entregar"" + 0.056*""reclamar"" + 0.056*""desordenado"" + 0.042*""tiempo"" + 0.038*""ofrecer"" + 0.038*""problema"""

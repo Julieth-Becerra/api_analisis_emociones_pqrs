@@ -1,0 +1,11 @@
+tema,palabras
+0,"0.115*""proceso"" + 0.104*""amable"" + 0.091*""atención"" + 0.066*""paso"" + 0.057*""personal"" + 0.053*""excelente"" + 0.053*""orientar"" + 0.040*""resolver"" + 0.040*""acompañar"" + 0.040*""ingreso"""
+1,"0.100*""atención_usuario"" + 0.088*""solicitud"" + 0.064*""servicio"" + 0.045*""grosero"" + 0.045*""entregar"" + 0.045*""persona"" + 0.045*""perder"" + 0.045*""terrible"" + 0.033*""tiempo"" + 0.030*""personal"""
+2,"0.108*""solicitar"" + 0.106*""responder"" + 0.089*""forma"" + 0.063*""grosero"" + 0.055*""trámite"" + 0.055*""historia_clínico"" + 0.055*""documento"" + 0.055*""apoyo"" + 0.028*""pedir"" + 0.027*""resolver"""
+3,"0.081*""resolver"" + 0.072*""trato"" + 0.056*""atender"" + 0.051*""orientación"" + 0.051*""duda"" + 0.037*""proceso"" + 0.034*""solicito"" + 0.034*""explicar"" + 0.034*""trámite"" + 0.034*""impaciencia"""
+4,"0.129*""grosero"" + 0.117*""personal"" + 0.059*""atender"" + 0.056*""trámite"" + 0.042*""desdén"" + 0.042*""sentir"" + 0.042*""actitud_hostil"" + 0.042*""ayuda"" + 0.036*""servicio"" + 0.035*""pedir"""
+5,"0.056*""respuesta"" + 0.045*""atender"" + 0.045*""claro"" + 0.045*""grosero"" + 0.045*""problema"" + 0.034*""información"" + 0.034*""personal"" + 0.034*""trámite"" + 0.028*""ayudar"" + 0.025*""atención_usuario"""
+6,"0.141*""atención"" + 0.113*""personal"" + 0.058*""terrible"" + 0.044*""autorización"" + 0.044*""experiencia"" + 0.030*""inquietud"" + 0.030*""solicitar"" + 0.030*""lugar"" + 0.030*""brindar"" + 0.016*""responder"""
+7,"0.070*""área"" + 0.048*""obtener"" + 0.048*""solución"" + 0.048*""trámite"" + 0.048*""solicitud"" + 0.048*""grosero"" + 0.048*""pedir"" + 0.048*""explicación"" + 0.026*""tiempo"" + 0.025*""claro"""
+8,"0.141*""esperar"" + 0.093*""tiempo"" + 0.073*""fila"" + 0.073*""persona"" + 0.044*""pedir"" + 0.044*""discapacidad"" + 0.044*""ideal"" + 0.044*""cita"" + 0.030*""trámite"" + 0.030*""larga"""
+9,"0.076*""esperar"" + 0.075*""usuario"" + 0.056*""demora"" + 0.056*""ventanilla"" + 0.047*""atender"" + 0.040*""largo"" + 0.038*""generar"" + 0.038*""visible"" + 0.038*""trámite"" + 0.038*""útil"""

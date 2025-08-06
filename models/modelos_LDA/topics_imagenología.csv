@@ -1,0 +1,11 @@
+tema,palabras
+0,"0.161*""hora"" + 0.090*""servicio"" + 0.083*""imagenología"" + 0.083*""excelente"" + 0.083*""agradable"" + 0.043*""claridad"" + 0.043*""experiencia"" + 0.043*""entregar"" + 0.043*""resultado"" + 0.043*""mejorar"""
+1,"0.144*""esperar"" + 0.135*""atendido"" + 0.080*""imagenología"" + 0.072*""hora"" + 0.071*""tiempo"" + 0.071*""mejorar"" + 0.071*""deber"" + 0.071*""atención"" + 0.071*""paciente"" + 0.006*""personal"""
+2,"0.098*""amable"" + 0.098*""experiencia"" + 0.098*""agradable"" + 0.098*""cita"" + 0.098*""atender"" + 0.098*""personal"" + 0.098*""hora"" + 0.009*""mostrar"" + 0.009*""espera"" + 0.009*""servicio"""
+3,"0.248*""esperar"" + 0.128*""paciente"" + 0.122*""servicio"" + 0.107*""personal"" + 0.097*""turno"" + 0.092*""imagenología"" + 0.065*""espera"" + 0.034*""tiempo"" + 0.003*""mejorar"" + 0.003*""atendido"""
+4,"0.139*""personal"" + 0.110*""atención"" + 0.073*""sentir"" + 0.073*""experiencia"" + 0.073*""hostil"" + 0.049*""grosero"" + 0.049*""examen"" + 0.049*""tiempo"" + 0.049*""mostrar"" + 0.026*""momento"""
+5,"0.115*""procedimiento"" + 0.115*""deber"" + 0.115*""generar"" + 0.060*""explicar"" + 0.060*""paso"" + 0.060*""atención"" + 0.060*""excelente"" + 0.060*""personal"" + 0.060*""cita"" + 0.060*""atender"""
+6,"0.206*""personal"" + 0.161*""información"" + 0.109*""mostrar"" + 0.109*""actitud"" + 0.109*""claro"" + 0.065*""atención"" + 0.057*""espera"" + 0.005*""esperar"" + 0.005*""procedimiento"" + 0.005*""experiencia"""
+7,"0.290*""procedimiento"" + 0.137*""atención"" + 0.086*""amable"" + 0.086*""cita"" + 0.086*""claridad"" + 0.086*""paso"" + 0.045*""explicación"" + 0.045*""médico"" + 0.004*""explicar"" + 0.004*""tomar"""
+8,"0.077*""atención"" + 0.077*""resultado"" + 0.077*""médico"" + 0.077*""deber"" + 0.077*""demorado"" + 0.077*""servicio"" + 0.077*""recibir"" + 0.040*""generar"" + 0.040*""explicación"" + 0.040*""experiencia"""
+9,"0.216*""examen"" + 0.145*""proceso"" + 0.110*""tomar"" + 0.110*""inconformidad"" + 0.110*""sentir"" + 0.074*""momento"" + 0.074*""entregar"" + 0.039*""paciente"" + 0.004*""atender"" + 0.004*""procedimiento"""

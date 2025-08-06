@@ -1,0 +1,11 @@
+tema,palabras
+0,"0.047*""inconformidad"" + 0.036*""urgencia"" + 0.033*""paciente"" + 0.033*""demoro"" + 0.031*""atención"" + 0.026*""servicio"" + 0.025*""generar"" + 0.018*""proceso"" + 0.017*""atencion"" + 0.017*""desordenado"""
+1,"0.102*""cita"" + 0.037*""medicamento"" + 0.036*""urgencia"" + 0.027*""llegar"" + 0.023*""necesitar_urgencia"" + 0.020*""necesitar"" + 0.019*""médico"" + 0.018*""esperar"" + 0.018*""deber"" + 0.016*""control"""
+2,"0.044*""enfermera"" + 0.035*""hospital"" + 0.029*""personal"" + 0.027*""servicio"" + 0.026*""problema"" + 0.019*""dolor"" + 0.015*""turno"" + 0.015*""paciente"" + 0.014*""tardar"" + 0.013*""movilidad"""
+3,"0.028*""faltar"" + 0.024*""demora"" + 0.023*""medicamento"" + 0.020*""personal_mostrar"" + 0.020*""claro"" + 0.015*""útil"" + 0.015*""deber"" + 0.015*""paciente"" + 0.013*""generar"" + 0.012*""evitar"""
+4,"0.058*""recibido"" + 0.045*""paciente"" + 0.043*""inconformidad_tratar"" + 0.032*""personal_enfermerio"" + 0.025*""urgencia"" + 0.025*""personal"" + 0.023*""uci"" + 0.022*""especialista"" + 0.022*""medico"" + 0.018*""sur"""
+5,"0.061*""proceso"" + 0.044*""amable"" + 0.031*""atención"" + 0.028*""personal"" + 0.022*""rápido"" + 0.017*""paciente"" + 0.016*""eficiente"" + 0.014*""forma"" + 0.013*""ayudar"" + 0.013*""médico"""
+6,"0.065*""servicio"" + 0.061*""personal"" + 0.033*""atención"" + 0.026*""paciente"" + 0.022*""momento"" + 0.018*""amable"" + 0.018*""experiencia"" + 0.016*""equipo"" + 0.015*""actitud"" + 0.014*""sentir"""
+7,"0.067*""esperar"" + 0.032*""solicitar"" + 0.019*""sugerir"" + 0.018*""medicamento"" + 0.017*""largo"" + 0.016*""fila"" + 0.015*""persona"" + 0.014*""generar"" + 0.013*""disponibilidad"" + 0.012*""espera"""
+8,"0.040*""sentir"" + 0.034*""tiempo"" + 0.033*""atención"" + 0.028*""atender"" + 0.027*""personal"" + 0.026*""médico"" + 0.025*""ansiedad"" + 0.019*""tomar"" + 0.019*""terrible"" + 0.017*""esperar"""
+9,"0.092*""grosero"" + 0.039*""atención"" + 0.037*""trato"" + 0.033*""personal"" + 0.026*""atender"" + 0.022*""tratar"" + 0.020*""doctor"" + 0.019*""profesional"" + 0.019*""hostil"" + 0.019*""cita"""

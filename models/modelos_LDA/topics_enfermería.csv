@@ -1,0 +1,11 @@
+tema,palabras
+0,"0.261*""demoro"" + 0.134*""generar"" + 0.134*""medicamento"" + 0.070*""servicio"" + 0.070*""inconformidad"" + 0.070*""sur"" + 0.070*""paciente"" + 0.006*""personal"" + 0.006*""inconformidad_tratar"" + 0.006*""jefe"""
+1,"0.419*""paciente"" + 0.146*""uci"" + 0.134*""atencion"" + 0.099*""brusca"" + 0.052*""personal"" + 0.005*""sur"" + 0.005*""servicio"" + 0.005*""inconformidad"" + 0.005*""pediatrio"" + 0.005*""personal_enfermerio"""
+2,"0.326*""personal_enfermerio"" + 0.116*""paciente"" + 0.089*""sur"" + 0.084*""inconformidad"" + 0.084*""faltar"" + 0.064*""norte"" + 0.048*""atencion"" + 0.047*""uci"" + 0.023*""atender"" + 0.023*""trato"""
+3,"0.148*""medicamento"" + 0.119*""dolor"" + 0.110*""paciente"" + 0.090*""recibir"" + 0.090*""atención"" + 0.090*""causar"" + 0.090*""generar"" + 0.087*""enfermera"" + 0.035*""información"" + 0.032*""urgencia"""
+4,"0.257*""servicio"" + 0.144*""urgencia"" + 0.116*""recibido"" + 0.116*""pediatrio"" + 0.088*""inconformidad_tratar"" + 0.067*""personal_enfermerio"" + 0.042*""enfermera"" + 0.031*""trato"" + 0.031*""atender"" + 0.031*""enfermerio"""
+5,"0.330*""personal"" + 0.101*""actitud"" + 0.101*""llamado"" + 0.069*""procedimiento"" + 0.069*""paciente"" + 0.065*""información"" + 0.036*""tratar"" + 0.036*""hostil"" + 0.036*""atención"" + 0.036*""atender"""
+6,"0.221*""inconformidad"" + 0.135*""neonatal"" + 0.135*""frente"" + 0.127*""uci"" + 0.063*""atención"" + 0.054*""jefe"" + 0.048*""tratar"" + 0.048*""enfermerio"" + 0.048*""sur"" + 0.004*""procedimiento"""
+7,"0.171*""procedimiento"" + 0.158*""enfermera"" + 0.152*""atención"" + 0.116*""trato"" + 0.061*""grosero"" + 0.061*""atender"" + 0.061*""paciente"" + 0.061*""tratar"" + 0.006*""recibido"" + 0.006*""pediatrio"""
+8,"0.320*""recibido"" + 0.281*""inconformidad_tratar"" + 0.156*""jefe"" + 0.113*""sur"" + 0.004*""uci"" + 0.004*""personal_enfermerio"" + 0.004*""neonatal"" + 0.004*""trato"" + 0.004*""atención"" + 0.004*""enfermera"""
+9,"0.247*""enfermera"" + 0.167*""grosero"" + 0.139*""hostil"" + 0.139*""amable"" + 0.085*""actitud"" + 0.085*""trato"" + 0.057*""procedimiento"" + 0.003*""paciente"" + 0.003*""generar"" + 0.003*""causar"""

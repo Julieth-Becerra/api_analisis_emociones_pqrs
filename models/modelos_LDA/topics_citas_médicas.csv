@@ -1,0 +1,11 @@
+tema,palabras
+0,"0.148*""cita"" + 0.055*""proceso"" + 0.041*""agendamiento"" + 0.041*""personal"" + 0.039*""ausencia"" + 0.033*""trato"" + 0.025*""médico"" + 0.025*""grosero"" + 0.025*""asignación"" + 0.025*""previo"""
+1,"0.105*""cita"" + 0.093*""perjudicial"" + 0.086*""tratamiento"" + 0.072*""esperar"" + 0.061*""mes"" + 0.052*""salud"" + 0.044*""control"" + 0.044*""urgencia"" + 0.035*""fecha"" + 0.030*""médico"""
+2,"0.115*""profesional"" + 0.095*""atención"" + 0.084*""sentir"" + 0.078*""tiempo"" + 0.061*""atender"" + 0.054*""excelente"" + 0.041*""tratado"" + 0.041*""puntual"" + 0.041*""generar"" + 0.028*""paciente"""
+3,"0.097*""médico"" + 0.095*""cita"" + 0.070*""servicio"" + 0.050*""especialista"" + 0.050*""duda"" + 0.050*""diagnóstico"" + 0.043*""consulta"" + 0.042*""tiempo"" + 0.030*""solicité"" + 0.030*""resolver"""
+4,"0.098*""atención"" + 0.081*""médico"" + 0.064*""experiencia"" + 0.064*""excelente"" + 0.052*""doctor"" + 0.039*""servicio"" + 0.039*""hostil"" + 0.038*""actitud"" + 0.030*""rápido"" + 0.027*""interés"""
+5,"0.062*""médico"" + 0.057*""cita"" + 0.046*""mostrar"" + 0.041*""paciente"" + 0.041*""distinto"" + 0.041*""personal"" + 0.041*""llamar"" + 0.038*""permitir"" + 0.029*""agendar"" + 0.028*""atención"""
+6,"0.089*""cita"" + 0.086*""médico"" + 0.052*""problema"" + 0.042*""respetar"" + 0.042*""hora"" + 0.037*""citar"" + 0.031*""grosero"" + 0.031*""atendido"" + 0.031*""recordatorio"" + 0.031*""sugerir"""
+7,"0.080*""agenda"" + 0.079*""cita"" + 0.058*""urgencia"" + 0.053*""control"" + 0.050*""agendar"" + 0.037*""necesitar"" + 0.034*""opción"" + 0.030*""médico"" + 0.027*""requiero"" + 0.027*""citar"""
+8,"0.095*""cita"" + 0.070*""grosero"" + 0.054*""especialista"" + 0.054*""doctor"" + 0.050*""consulta"" + 0.049*""atender"" + 0.037*""sentir"" + 0.033*""médico"" + 0.031*""atendido"" + 0.031*""amable"""
+9,"0.177*""cita"" + 0.070*""urgencia"" + 0.068*""personal"" + 0.054*""necesitar"" + 0.035*""sistema"" + 0.026*""claro"" + 0.026*""tratar"" + 0.026*""proceso"" + 0.025*""solución"" + 0.024*""rápido"""

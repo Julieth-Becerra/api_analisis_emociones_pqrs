@@ -1,0 +1,11 @@
+tema,palabras
+0,"0.049*""equipo"" + 0.049*""recibir"" + 0.035*""atención"" + 0.035*""atender"" + 0.033*""orden"" + 0.033*""médico"" + 0.033*""respetar"" + 0.033*""empatía"" + 0.033*""solicitar"" + 0.028*""angustiante"""
+1,"0.101*""atención"" + 0.092*""personal"" + 0.052*""urgencia"" + 0.050*""paciente"" + 0.045*""grosero"" + 0.043*""esperar"" + 0.034*""información_claro"" + 0.033*""familiar"" + 0.033*""recibir"" + 0.031*""médico"""
+2,"0.061*""momento"" + 0.057*""atender"" + 0.046*""paciente"" + 0.045*""esperar"" + 0.044*""personal"" + 0.041*""alto"" + 0.041*""amabilidad"" + 0.033*""adecuado"" + 0.031*""ansiedad"" + 0.025*""servicio"""
+3,"0.089*""urgencia"" + 0.087*""atención"" + 0.061*""examen"" + 0.037*""llegar"" + 0.037*""espera"" + 0.037*""baño"" + 0.028*""recibir"" + 0.025*""tratamiento"" + 0.025*""demorado"" + 0.025*""dolor"""
+4,"0.092*""hora"" + 0.066*""urgencia"" + 0.061*""paciente"" + 0.058*""esperar"" + 0.047*""demora"" + 0.038*""caso"" + 0.029*""atender"" + 0.028*""respuesta"" + 0.027*""evidente"" + 0.023*""llegar"""
+5,"0.117*""paciente"" + 0.060*""informacion"" + 0.049*""solicitud"" + 0.049*""proceso"" + 0.037*""remision"" + 0.037*""referencia"" + 0.037*""trato"" + 0.027*""urgencia"" + 0.025*""deber"" + 0.025*""brindado"""
+6,"0.069*""personal"" + 0.060*""atención"" + 0.051*""amable"" + 0.051*""situación"" + 0.047*""médico"" + 0.036*""esperar"" + 0.034*""información"" + 0.034*""aumentar"" + 0.034*""brindar"" + 0.034*""dar"""
+7,"0.097*""urgencia"" + 0.063*""personal"" + 0.059*""recibido"" + 0.058*""servicio"" + 0.052*""rápido"" + 0.051*""atención"" + 0.044*""inconformidad_tratar"" + 0.030*""dolor"" + 0.030*""demoro"" + 0.029*""agradecer"""
+8,"0.065*""dolor"" + 0.059*""equipo"" + 0.040*""momento"" + 0.036*""urgencia"" + 0.035*""esperar"" + 0.033*""actuar"" + 0.030*""paciente"" + 0.030*""personal"" + 0.027*""rapidez"" + 0.022*""forma"""
+9,"0.173*""urgencia"" + 0.096*""inconformidad"" + 0.064*""esperar"" + 0.064*""atencion"" + 0.055*""servicio"" + 0.033*""dolor"" + 0.033*""tiempo"" + 0.033*""medico"" + 0.033*""menor"" + 0.025*""paciente"""

@@ -1,0 +1,11 @@
+tema,palabras
+0,"0.100*""paciente"" + 0.089*""solicitar"" + 0.089*""condición"" + 0.060*""permitir"" + 0.060*""turno"" + 0.060*""necesitar"" + 0.032*""pasar"" + 0.032*""hostil"" + 0.032*""actitud"" + 0.032*""verificar"""
+1,"0.129*""personal"" + 0.109*""limpio"" + 0.100*""hospitalización"" + 0.091*""servicio"" + 0.071*""atención"" + 0.055*""ambiente"" + 0.055*""cuidado"" + 0.055*""malo"" + 0.038*""paciente"" + 0.038*""sentir"""
+2,"0.158*""faltar"" + 0.079*""generar"" + 0.066*""atención"" + 0.066*""esperar"" + 0.066*""básico"" + 0.035*""enfermera"" + 0.035*""urgencia"" + 0.035*""hospitalizado"" + 0.035*""hospitalización"" + 0.035*""familiar"""
+3,"0.081*""habitación"" + 0.067*""ruido"" + 0.067*""perjudicial"" + 0.054*""recuperación"" + 0.054*""descanso"" + 0.054*""incómodo"" + 0.054*""espacio"" + 0.049*""paciente"" + 0.041*""estancia"" + 0.041*""privacidad"""
+4,"0.109*""atender"" + 0.109*""atento"" + 0.097*""amable"" + 0.081*""personal"" + 0.074*""constante"" + 0.043*""hospitalización"" + 0.039*""pedir"" + 0.039*""básico"" + 0.039*""recuperación"" + 0.039*""faltar"""
+5,"0.108*""pasar"" + 0.081*""ansiedad"" + 0.054*""solicitar"" + 0.054*""noche"" + 0.049*""generar"" + 0.046*""sentir"" + 0.041*""médico"" + 0.041*""acompañamiento"" + 0.028*""recuperación"" + 0.028*""atender"""
+6,"0.212*""personal"" + 0.079*""ayudar"" + 0.079*""entregar"" + 0.054*""cama"" + 0.054*""hostil"" + 0.054*""actitud"" + 0.054*""grosero"" + 0.054*""apoyo"" + 0.054*""tiempo"" + 0.041*""problema"""
+7,"0.143*""hospital"" + 0.116*""excelente"" + 0.059*""momento"" + 0.059*""tiempo"" + 0.059*""servicio"" + 0.059*""poder"" + 0.034*""atención"" + 0.031*""sentir"" + 0.031*""pasar"" + 0.031*""cama"""
+8,"0.100*""sentir"" + 0.085*""personal"" + 0.053*""hospitalización"" + 0.053*""estadir"" + 0.053*""actitud"" + 0.040*""organización"" + 0.040*""amable"" + 0.040*""enfermera"" + 0.040*""equipo"" + 0.040*""experiencia"""
+9,"0.113*""hospitalización"" + 0.101*""médico"" + 0.068*""tiempo"" + 0.068*""tomar"" + 0.036*""paciente"" + 0.036*""servicio"" + 0.036*""garantizar"" + 0.036*""atención"" + 0.036*""tratamiento"" + 0.036*""apoyo"""
