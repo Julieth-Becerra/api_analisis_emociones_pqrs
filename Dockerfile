@@ -7,15 +7,16 @@ WORKDIR /app
 # Copiar los archivos del backend al contenedor
 COPY . .
 
-# Actualizar pip y setear variables de entorno para evitar errores con encoding
+# Evitar escritura de bytecode, errores de buffer y encoding
 ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
     LC_ALL=C.UTF-8 \
     LANG=C.UTF-8
 
-# Instalar dependencias
-RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
+# Actualizar pip y evitar errores con scikit-learn y Cython
+RUN pip install --upgrade pip \
+ && pip install Cython==0.29.36 \
+ && pip install -r requirements.txt
 
 # Puerto por defecto de FastAPI
 EXPOSE 8000
