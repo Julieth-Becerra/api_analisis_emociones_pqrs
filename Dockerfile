@@ -1,5 +1,5 @@
 # Imagen base oficial de TensorFlow con Python 3
-FROM tensorflow/tensorflow:2.18.0-py3
+FROM tensorflow/tensorflow:2.18.0
 
 # Establecer el directorio de trabajo
 WORKDIR /app
